@@ -4,6 +4,6 @@ public class Vezba5 {
         String value_stepen = "2.5";
         //value_stepen to double
         double value_stepen_double = Double.parseDouble(value_stepen);
-        System.out.println("Температурата изнесува "+value_stepen_double*10+" "+unit+"и");//so literal
+        System.out.println("Температурата изнесува "+  value_stepen_double*10+" "+unit+"и");//so literal
     }
 }

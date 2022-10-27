@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f619f4de-ac3b-4837-89b9-b5e69326c53d" name="Changes" comment="refactoring V6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f619f4de-ac3b-4837-89b9-b5e69326c53d" name="Changes" comment="refactor Vezba6.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,14 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Vezba6">
+  <component name="RunManager" selected="Application.Vezba5">
+    <configuration name="Vezba1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vezba1" />
+      <module name="vezbi-oop-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Vezba2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vezba2" />
       <module name="vezbi-oop-Java" />
@@ -47,13 +52,6 @@
     </configuration>
     <configuration name="Vezba3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vezba3" />
-      <module name="vezbi-oop-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vezba4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vezba4" />
       <module name="vezbi-oop-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Vezba6" />
         <item itemvalue="Application.Vezba5" />
-        <item itemvalue="Application.Vezba4" />
         <item itemvalue="Application.Vezba3" />
         <item itemvalue="Application.Vezba2" />
+        <item itemvalue="Application.Vezba1" />
+        <item itemvalue="Application.Vezba6" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666885131657</updated>
-      <workItem from="1666885133580" duration="2212000" />
+      <workItem from="1666885133580" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="fix Vezba6">
       <created>1666886792555</created>
@@ -134,7 +132,42 @@
       <option name="project" value="LOCAL" />
       <updated>1666887317928</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix Vkupna cena">
+      <created>1666887418676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887418676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor Vezba6.java">
+      <created>1666887457650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887457650</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor Vezba6.java">
+      <created>1666887513681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887513681</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor Vezba6.java">
+      <created>1666887554078</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887554078</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactor Vezba6.java">
+      <created>1666887637408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887637408</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +188,8 @@
     <MESSAGE value="fix Vezba6" />
     <MESSAGE value="refactoring" />
     <MESSAGE value="refactoring V6" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring V6" />
+    <MESSAGE value="fix Vkupna cena" />
+    <MESSAGE value="refactor Vezba6.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor Vezba6.java" />
   </component>
 </project>
