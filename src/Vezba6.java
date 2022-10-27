@@ -8,11 +8,11 @@ public class Vezba6 {
 
 
         Double price1Double = Double.parseDouble(proizvodi.prize1);
-        Double article1Dobule = Double.parseDouble(proizvodi.quatity);
+        Double article1Dobule = Double.parseDouble(proizvodi.quantity);
 
 
         Double price2Double = Double.parseDouble(proizvodi.prize2);
-        Double article2Dobule = Double.parseDouble(proizvodi.quatity);
+        Double article2Dobule = Double.parseDouble(proizvodi.quantity);
 
     System.out.println("Сметка:");
     System.out.println("Едно чоколадо -"+proizvodi.article1.toLowerCase() + proizvodi.prize1 + proizvodi.currency+"и");
