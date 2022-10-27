@@ -8,16 +8,16 @@ public class Vezba6 {
 
 
         Double price1Double = Double.parseDouble(proizvodi.prize1);
-        Double article1Dobule = Double.parseDouble(proizvodi.quantity);
-
-
         Double price2Double = Double.parseDouble(proizvodi.prize2);
-        Double article2Dobule = Double.parseDouble(proizvodi.quantity);
+        Double quantity = Double.parseDouble(proizvodi.quantity);
+
+    // so literals moze i vo var
 
     System.out.println("Сметка:");
-    System.out.println("Едно чоколадо -"+proizvodi.article1.toLowerCase() + proizvodi.prize1 + proizvodi.currency+"и");
-    System.out.println(price1Double + " x "+ price2Double + " = " + price1Double*article1Dobule);
-    System.out.println("Еден сок" + proizvodi.article2.toLowerCase() + proizvodi.prize2 + proizvodi.currency+"и");
-    System.out.println(price1Double + " x "+ price2Double + " = " + price2Double*article2Dobule);
+    System.out.println("Едно чоколадо -"+proizvodi.article1.toLowerCase() +" "+ proizvodi.prize1 +" "+ proizvodi.currency+"и");
+    System.out.println(price1Double + " x "+ price2Double + " = " + price1Double*quantity);
+    System.out.println("Еден сок " + proizvodi.article2.toLowerCase() +" "+proizvodi.prize2 +" "+ proizvodi.currency+"и");
+    System.out.println(price1Double + " x "+ price2Double + " = " + price2Double*quantity);
+    System.out.println("Вкупна Цена:" + price1Double*quantity + price2Double*quantity);
     }
-}
+    }
