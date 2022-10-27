@@ -4,11 +4,13 @@ public class Vezba6 {
 
         Proizvodi proizvodi = new Proizvodi();
 
+        //Change from Double.parse to Integer.parse
 
-        Double price1Double = Double.parseDouble(proizvodi.prize1);
-        Double price2Double = Double.parseDouble(proizvodi.prize2);
-        Double quantity = Double.parseDouble(proizvodi.quantity);
-        double sum = price1Double*quantity + price2Double*quantity;
+
+        Integer price1Double = Integer.parseInt(proizvodi.prize1);
+        Integer price2Double = Integer.parseInt(proizvodi.prize2);
+        Integer quantity = Integer.parseInt(proizvodi.quantity);
+        int sum = price1Double*quantity + price2Double*quantity;
 
 
             // so literals moze i vo var
