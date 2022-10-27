@@ -8,10 +8,16 @@ public class Vezba6 {
 
 
         Double price1Double = Double.parseDouble(proizvodi.prize1);
+        Double article1Dobule = Double.parseDouble(proizvodi.quatity);
+
+
         Double price2Double = Double.parseDouble(proizvodi.prize2);
+        Double article2Dobule = Double.parseDouble(proizvodi.quatity);
 
     System.out.println("Сметка:");
     System.out.println("Едно чоколадо -"+proizvodi.article1.toLowerCase() + proizvodi.prize1 + proizvodi.currency+"и");
-    System.out.println(price1Double + " + "+ price2Double + " = " + price1Double*price2Double);
+    System.out.println(price1Double + " x "+ price2Double + " = " + price1Double*article1Dobule);
+    System.out.println("Еден сок" + proizvodi.article2.toLowerCase() + proizvodi.prize2 + proizvodi.currency+"и");
+    System.out.println(price1Double + " x "+ price2Double + " = " + price2Double*article2Dobule);
     }
 }
