@@ -8,7 +8,7 @@ public class Vezba6 {
         Double price1Double = Double.parseDouble(proizvodi.prize1);
         Double price2Double = Double.parseDouble(proizvodi.prize2);
         Double quantity = Double.parseDouble(proizvodi.quantity);
-        Double sum = price1Double*quantity + price2Double*quantity;
+        double sum = price1Double*quantity + price2Double*quantity;
 
 
             // so literals moze i vo var
