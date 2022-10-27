@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f619f4de-ac3b-4837-89b9-b5e69326c53d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proizvodi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vezba1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vezba2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vezba3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vezba4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vezba5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vezba6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vezbi-oop-Java.iml" afterDir="false" />
+    <list default="true" id="f619f4de-ac3b-4837-89b9-b5e69326c53d" name="Changes" comment="refactoring V6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,8 +104,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666885131657</updated>
-      <workItem from="1666885133580" duration="1576000" />
+      <workItem from="1666885133580" duration="2212000" />
     </task>
+    <task id="LOCAL-00001" summary="fix Vezba6">
+      <created>1666886792555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666886792555</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix Vezba6">
+      <created>1666887098833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887098833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix Vezba6">
+      <created>1666887148342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887148342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactoring V6">
+      <created>1666887317928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666887317928</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +150,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix Vezba6" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="refactoring V6" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring V6" />
   </component>
 </project>
